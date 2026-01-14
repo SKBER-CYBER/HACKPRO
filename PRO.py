@@ -1,2 +1,2 @@
-import menu
-print(dir(menu))
+import PRO2
+print(dir(PRO2))
