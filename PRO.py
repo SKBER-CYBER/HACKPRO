@@ -1,2 +1,2 @@
 import pro3
-print(dir(pro))
+print(dir(pro3))
